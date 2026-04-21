@@ -15,6 +15,9 @@ This project analyzes **5 years of motor vehicle collision data (2021–2025)** 
 
 ## 📊 Dashboards
 
+## 🔗 Live Dashboard
+👉 [Click here to view the interactive dashboard](https://dbc-ed1d02d7-f760.cloud.databricks.com/dashboardsv3/01f138fc1cc91c03bb14f652bbe18871/published?o=7474650509418187)
+
 ### 1. Overview Dashboard
 ![Overview Dashboard](dashboards/overview_dashboard.png)
 
