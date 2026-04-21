@@ -90,4 +90,4 @@ Based on the findings, road safety interventions should prioritize:
 
 **Saksham Jain**
 Data Analyst | Sheridan College, Computer Programming
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/saksham-jains) · [GitHub](https://github.com/saksham1214)
